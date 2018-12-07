@@ -1,0 +1,8 @@
+eureka:
+  instance:
+    metadata-map.zone: zone1
+  client:
+    region: cn-east
+
+server:
+  port: 8080

@@ -1,0 +1,4 @@
+rootProject.name = 'jmall'
+include('eureka')
+include('cart')
+
