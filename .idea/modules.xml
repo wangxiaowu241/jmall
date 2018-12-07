@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart.iml" group="cart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" group="cart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" group="cart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.java-jmall.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.java-jmall.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka.iml" group="eureka" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka_main.iml" group="eureka" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka_test.iml" group="eureka" />
