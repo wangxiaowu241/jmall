@@ -1,8 +1,0 @@
-eureka:
-  instance:
-    metadata-map.zone: zone2
-  client:
-    region: cn-west
-
-server:
-  port: 8762
