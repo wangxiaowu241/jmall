@@ -1,0 +1,39 @@
+buildscript {
+    ext {
+        springBootVersion = '2.1.1.RELEASE'
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+
+group = 'com.xt.open.jmall'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+
+dependencies {
+    implementation('org.springframework.cloud:spring-cloud-starter-openfeign:2.0.2.RELEASE')
+    implementation('org.springframework.cloud:spring-cloud-starter-netflix-hystrix:2.0.2.RELEASE')
+    implementation('org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard:2.0.2.RELEASE')
+    implementation('org.projectlombok:lombok:1.16.20')
+    implementation('org.projectlombok:lombok-maven-plugin:1.16.20.0')
+    implementation('org.springframework.boot:spring-boot-starter-web')
+    implementation('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.1.0.M1')
+    implementation('com.xt.java:common-mybatis:1.0-SNAPSHOT')
+
+    testImplementation('org.springframework.boot:spring-boot-starter-test')
+}

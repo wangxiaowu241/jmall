@@ -28,6 +28,6 @@ public class CartControllrr {
     @PostMapping("/{productId}")
     public ResponseEntity addCart(@PathVariable("productId") Long productId) {
         System.out.println(productId);
-        return ResponseEntity.noContent().build();
+        return ResponseEntity.ok(productId);
     }
 }

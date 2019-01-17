@@ -15,3 +15,4 @@ spring:
     name: cart
   profiles:
     active: ${boot.profile:dev}
+

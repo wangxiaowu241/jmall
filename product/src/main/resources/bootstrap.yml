@@ -1,0 +1,40 @@
+server:
+  port: 8082
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    status-page-url-path: /info
+    health-check-url-path: /health
+
+spring:
+  application:
+    name: product
+  profiles:
+    active: ${boot.profile:dev}
+
+logging:
+  level:
+    com.xt.open.jmall.product.remote.feignclients.CartFeignClient: info
+
+feign:
+  compression:
+    request: #请求
+      enabled: true #开启
+      mime-types: text/xml,application/xml,application/json #开启支持压缩的MIME TYPE
+      min-request-size: 2048 #配置压缩数据大小的下限
+    response: #响应
+      enabled: true #开启响应GZIP压缩
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: basic
+  okhttp:
+    enabled: true
+#  hystrix:
+#    enabled: true
+
