@@ -17,3 +17,4 @@ zuul:
   prefix: /api
   strip-prefix: true
 
+
