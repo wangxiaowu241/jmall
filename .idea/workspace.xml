@@ -2,11 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="059e5a6b-3dd6-4742-8fad-57ee2e17dfb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/exception/TokenNotValidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/AlgorithmApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AQSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConcurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConnectionPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/DaemonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/JoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MultiThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MutexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/WaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/ArraySearchAndReplaceBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/LinkedListRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/NumberMiAndChangeArrayOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/StackRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/other/StringRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/wangyi/SchoolEnrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/test/java/com/xt/algorithm/AlgorithmApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-server/out/production/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/xt/open/jmall/auth/AuthServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-server/src/main/java/com/xt/open/jmall/auth/config/OAuthConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth-server/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-mybatis/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/common-mybatis/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/product/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/filter/AuthorationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/filter/AuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/controller/CartControllrr.java" beforeDir="false" afterPath="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/controller/CartControllrr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/ZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/ZuulApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zuul/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -31,6 +73,12 @@
     <ignored path="$PROJECT_DIR$/common-base/.gradle/" />
     <ignored path="$PROJECT_DIR$/common-base/build/" />
     <ignored path="$PROJECT_DIR$/common-base/out/" />
+    <ignored path="$PROJECT_DIR$/auth-server/.gradle/" />
+    <ignored path="$PROJECT_DIR$/auth-server/build/" />
+    <ignored path="$PROJECT_DIR$/auth-server/out/" />
+    <ignored path="$PROJECT_DIR$/algorithm/.gradle/" />
+    <ignored path="$PROJECT_DIR$/algorithm/build/" />
+    <ignored path="$PROJECT_DIR$/algorithm/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +111,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/algorithm">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/product">
       <ProjectState />
     </projectState>
@@ -93,6 +144,14 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="jmall" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="product" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="zuul" type="f1a62948:ProjectNode" />
               </path>
               <path>
@@ -125,43 +184,14 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="zuul" type="f1a62948:ProjectNode" />
                 <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="zuul" type="f1a62948:ProjectNode" />
                 <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
                 <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="com.netflix.ribbon:ribbon:2.3.0" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="zuul" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="com.netflix.ribbon:ribbon:2.3.0" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="com.netflix.ribbon:ribbon-transport:2.3.0" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="zuul" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.1.0.M3" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="com.netflix.ribbon:ribbon:2.3.0" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="com.netflix.ribbon:ribbon-transport:2.3.0" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="com.netflix.ribbon:ribbon-loadbalancer:2.3.0" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
               </path>
             </expand>
             <select />
@@ -174,195 +204,135 @@
     <session id="958979600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="MF" value="1" />
-          <entry key="bat" value="2" />
-          <entry key="class" value="51" />
+          <entry key="bat" value="3" />
+          <entry key="class" value="81" />
           <entry key="dtd" value="1" />
-          <entry key="factories" value="1" />
-          <entry key="gitignore" value="7" />
-          <entry key="gradle" value="38" />
-          <entry key="gradlew" value="4" />
+          <entry key="factories" value="2" />
+          <entry key="git" value="1" />
+          <entry key="gitignore" value="8" />
+          <entry key="gradle" value="52" />
+          <entry key="gradlew" value="5" />
           <entry key="iml" value="1" />
-          <entry key="java" value="621" />
+          <entry key="java" value="868" />
           <entry key="json" value="8" />
           <entry key="md" value="2" />
-          <entry key="properties" value="5" />
-          <entry key="xml" value="6" />
-          <entry key="yml" value="37" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="8" />
+          <entry key="yml" value="50" />
+          <entry key="当前线程" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="51" />
+          <entry key="CLASS" value="81" />
           <entry key="DTD" value="1" />
-          <entry key="Groovy" value="38" />
+          <entry key="Groovy" value="52" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="621" />
-          <entry key="JSON" value="8" />
+          <entry key="JAVA" value="868" />
+          <entry key="JSON" value="9" />
           <entry key="Manifest" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Properties" value="5" />
-          <entry key="XML" value="6" />
-          <entry key="YAML" value="37" />
-          <entry key="spring.factories" value="1" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Properties" value="8" />
+          <entry key="UNKNOWN" value="1" />
+          <entry key="XML" value="8" />
+          <entry key="YAML" value="50" />
+          <entry key="spring.factories" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gradle" value="221" />
-          <entry key="java" value="2034" />
+          <entry key="gradle" value="275" />
+          <entry key="java" value="24866" />
           <entry key="json" value="2" />
           <entry key="txt" value="19" />
-          <entry key="yml" value="696" />
+          <entry key="yml" value="1250" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="221" />
-          <entry key="JAVA" value="2034" />
+          <entry key="Groovy" value="275" />
+          <entry key="JAVA" value="24866" />
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="YAML" value="696" />
+          <entry key="YAML" value="1250" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zuul/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/ZuulRunner.java">
+        <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MutexTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="95" column="43" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="43" />
+            <state relative-caret-position="151">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
               <folding>
-                <element signature="e#1899#1900#0" expanded="true" />
-                <element signature="e#1951#1952#0" expanded="true" />
-                <element signature="e#3206#3207#0" expanded="true" />
-                <element signature="e#3259#3260#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/filter/AuthenticationFilter.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="346">
+              <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
+              <folding>
+                <element signature="e#9117#9118#0" expanded="true" />
+                <element signature="e#9144#9145#0" expanded="true" />
+                <element signature="e#15850#15851#0" expanded="true" />
+                <element signature="e#15881#15882#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="922" column="43" selection-start-line="922" selection-start-column="33" selection-end-line="922" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#763#764#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/exception/TokenNotValidException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/FilterProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="159" column="17" selection-start-line="159" selection-start-column="17" selection-end-line="159" selection-end-column="17" />
-              <folding>
-                <element signature="e#1917#1918#0" expanded="true" />
-                <element signature="e#1948#1949#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/CompositeRouteLocator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/FilterLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="182" column="69" selection-start-line="182" selection-start-column="56" selection-end-line="182" selection-end-column="69" />
-              <folding>
-                <element signature="e#2306#2332#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/ZuulFilterInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/SimpleRouteLocator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="181" column="36" selection-start-line="181" selection-start-column="24" selection-end-line="181" selection-end-column="36" />
-              <folding>
-                <element signature="e#5482#5483#0" expanded="true" />
-                <element signature="e#5520#5521#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/discovery/DiscoveryClientRouteLocator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-495">
-              <caret line="55" column="15" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="15" />
-              <folding>
-                <element signature="e#6034#6035#0" expanded="true" />
-                <element signature="e#6052#6053#0" expanded="true" />
+                <element signature="e#22675#22676#0" expanded="true" />
+                <element signature="e#22703#22704#0" expanded="true" />
+                <element signature="e#32644#32645#0" expanded="true" />
+                <element signature="e#32694#32695#0" expanded="true" />
+                <element signature="e#41392#41393#0" expanded="true" />
+                <element signature="e#41449#41450#0" expanded="true" />
+                <element signature="e#46422#46423#0" expanded="true" />
+                <element signature="e#46479#46480#0" expanded="true" />
+                <element signature="e#90167#90168#0" expanded="true" />
+                <element signature="e#90251#90252#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -380,18 +350,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getRemoteRegionUrlsWithName</find>
-      <find>retry</find>
-      <find>configurationClasses</find>
-      <find>Ref</find>
-      <find>ReflectiveFeign</find>
-      <find>RequestTemplate</find>
-      <find>template</find>
-      <find>mysql</find>
-      <find>eager</find>
-      <find>routes</find>
-      <find>500</find>
-      <find>retryable</find>
       <find>ribbon</find>
       <find>sensitiveHeaders</find>
       <find>servlet</find>
@@ -402,7 +360,33 @@
       <find>hashFiltersByType</find>
       <find>metricPrefix</find>
       <find>compare</find>
+      <find>an</find>
+      <find>antMatcher</find>
+      <find>authenticationManager</find>
+      <find>getProperties</find>
+      <find>equal</find>
+      <find>equals</find>
+      <find>toArray</find>
+      <find>clone</find>
+      <find>clone()</find>
+      <find>compare(</find>
+      <find>isLetterOr</find>
+      <find>join</find>
+      <find>join(</find>
+      <find>start(</find>
+      <find>acquire</find>
+      <find>interrupt</find>
+      <find>acquire(</find>
+      <find>State</find>
+      <find>interrup</find>
+      <find>doAcquireNanos</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -416,17 +400,35 @@
     <option name="myGradleHomes">
       <map>
         <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8" />
+        <entry key="$PROJECT_DIR$/algorithm" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2" />
         <entry key="$PROJECT_DIR$/zuul" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
         <entry key="$PROJECT_DIR$" value="4.8" />
+        <entry key="$PROJECT_DIR$/algorithm" value="4.10.2" />
         <entry key="$PROJECT_DIR$/zuul" value="4.10.2" />
       </map>
     </option>
     <option name="availableProjects">
       <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="algorithm" />
+              <option name="path" value="$PROJECT_DIR$/algorithm" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="algorithm" />
+                <option name="path" value="$PROJECT_DIR$/algorithm" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
         <entry>
           <key>
             <ExternalProjectPojo>
@@ -439,6 +441,10 @@
               <ExternalProjectPojo>
                 <option name="name" value="jmall" />
                 <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":auth-server" />
+                <option name="path" value="$PROJECT_DIR$/auth-server" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":cart" />
@@ -589,7 +595,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependency management declared in project ':cart'." />
+                <option name="description" value="Displays the dependency management declared in project ':auth-server'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyManagement" />
               </ExternalTaskPojo>
@@ -676,6 +682,345 @@
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of root project 'jmall'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/algorithm">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'algorithm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'algorithm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'algorithm'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'algorithm'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/algorithm" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/auth-server">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':auth-server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':auth-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':auth-server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':auth-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':auth-server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':auth-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':auth-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':auth-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':auth-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':auth-server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/auth-server" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
@@ -1694,25 +2039,31 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="21627584284000" />
+        <entry key="$PROJECT_DIR$" value="23182917167000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/algorithm" value="6195032085000" />
+        <entry key="$PROJECT_DIR$/algorithm/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/algorithm/build.gradle" value="4032906120" />
+        <entry key="$PROJECT_DIR$/algorithm/gradle/wrapper/gradle-wrapper.properties" value="307973072" />
+        <entry key="$PROJECT_DIR$/algorithm/settings.gradle" value="2241378156" />
+        <entry key="$PROJECT_DIR$/auth-server/build.gradle" value="2831963696" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1151400896" />
         <entry key="$PROJECT_DIR$/cart/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/cart/build.gradle" value="473897580" />
         <entry key="$PROJECT_DIR$/cart/settings.gradle" value="2004970880" />
-        <entry key="$PROJECT_DIR$/common-base/build.gradle" value="2303851149" />
+        <entry key="$PROJECT_DIR$/common-base/build.gradle" value="633520470" />
         <entry key="$PROJECT_DIR$/common-mybatis/build.gradle" value="2312614957" />
         <entry key="$PROJECT_DIR$/eureka/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/eureka/build.gradle" value="3100045513" />
         <entry key="$PROJECT_DIR$/eureka/settings.gradle" value="4194778804" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
-        <entry key="$PROJECT_DIR$/product" value="6177919265000" />
+        <entry key="$PROJECT_DIR$/product" value="6185101640000" />
         <entry key="$PROJECT_DIR$/product/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/product/build.gradle" value="555417775" />
+        <entry key="$PROJECT_DIR$/product/build.gradle" value="4076446753" />
         <entry key="$PROJECT_DIR$/product/gradle/wrapper/gradle-wrapper.properties" value="307973072" />
         <entry key="$PROJECT_DIR$/product/settings.gradle" value="3942574380" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3107451815" />
-        <entry key="$PROJECT_DIR$/zuul" value="6183595748000" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1055494443" />
+        <entry key="$PROJECT_DIR$/zuul" value="6184031335000" />
         <entry key="$PROJECT_DIR$/zuul/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/zuul/build.gradle" value="1604292195" />
         <entry key="$PROJECT_DIR$/zuul/gradle/wrapper/gradle-wrapper.properties" value="307973072" />
@@ -1730,6 +2081,25 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/auth-server">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.0.RELEASE/1fed802dfe5680a1d10627c430d351e8ed3ffe21/spring-boot-gradle-plugin-2.1.0.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/d6c42859b24b62034b2a5e0db5ea12c688493d48/dependency-management-plugin-1.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.0.RELEASE/da29bcfa10d5e31fd81b02d9f6c02cb8c61b3674/spring-boot-gradle-plugin-2.1.0.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-loader-tools/2.1.0.RELEASE/spring-boot-loader-tools-2.1.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.1.2.RELEASE/spring-jcl-5.1.2.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/auth-server" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -1969,6 +2339,122 @@
             </ExternalProjectBuildClasspathPojo>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/algorithm">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/algorithm">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.2.RELEASE/50b06c9a002c5a3662c05acf0f3490b415a01ba7/spring-boot-gradle-plugin-2.1.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.2.RELEASE/7f873ab80770110bf59acb9e507dc0e262b5d990/spring-boot-loader-tools-2.1.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/d6c42859b24b62034b2a5e0db5ea12c688493d48/dependency-management-plugin-1.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.4.RELEASE/8be9ed31f0ad503c96cdbd3063ae4a6f418239c/spring-core-5.1.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/a25b942b99fde2cc2913ab39ad34abc0df4f5eb9/commons-compress-1.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.4.RELEASE/be34a24c2a607b5c95cddd7e12d25b492946798e/spring-jcl-5.1.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.2.RELEASE/ecf646efe06b1add812228ad239f8f83ece618fc/spring-boot-gradle-plugin-2.1.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.2.RELEASE/3b3d0ae550b5c6442d020f7e27531e3ac066f5d4/spring-boot-loader-tools-2.1.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.4.RELEASE/e7d2ad03a50ebff117a6efe2e0e3f15946d0768a/spring-core-5.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/1191f9f2bc0c47a8cce69193feb1ff0a8bcb37d5/commons-compress-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.4.RELEASE/f5a25caae583905203959abf35fdd1ab7a8f2c37/spring-jcl-5.1.4.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/algorithm" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="algorithm" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-native-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-kotlin-dsl-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-wrapper-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-docs-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-jvm-services-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-process-services-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/groovy-all-2.4.15.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-build-cache-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-cli-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-api-metadata-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-persistent-cache-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-model-groovy-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-launcher-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-runtime-api-info-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-base-services-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-resources-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-build-option-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-logging-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-core-api-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-tooling-api-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-core-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-messaging-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-installation-beacon-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-base-services-groovy-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/gradle-model-core-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-tooling-native-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-ide-play-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-plugins-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-platform-native-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-reporting-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-tooling-api-builders-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-testing-native-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-testing-jvm-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-ide-native-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-scala-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-ide-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-platform-play-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-language-scala-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-osgi-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-composite-builds-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-plugin-development-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-language-jvm-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-javascript-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-dependency-management-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-platform-jvm-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-test-kit-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-plugin-use-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-publish-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-build-init-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-resources-gcs-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-resources-http-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-language-native-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-resources-sftp-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-jacoco-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-testing-junit-platform-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-build-comparison-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-resources-s3-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-maven-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-platform-base-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-testing-base-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-build-cache-http-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-diagnostics-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-antlr-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-workers-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-ear-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-signing-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-language-groovy-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-version-control-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-ivy-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-code-quality-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-language-java-4.10.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10.2-bin/cghg6c4gf4vkiutgsab8yrnwv/gradle-4.10.2/lib/plugins/gradle-announce-4.10.2.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/zuul">
           <value>
             <ExternalProjectBuildClasspathPojo>
@@ -2090,6 +2576,7 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/algorithm" value="IMPORT" />
         <entry key="$PROJECT_DIR$/zuul" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../spring-cloud-demo/ms-server-config" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../spring-cloud-demo/ms-server-eureka" value="PREVIEW" />
@@ -2102,38 +2589,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zuul/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/eureka/build.gradle" />
-        <option value="$PROJECT_DIR$/eureka/src/main/java/com/xt/open/jmall/eureka/config/SecurityConfig.java" />
-        <option value="$PROJECT_DIR$/common-mybatis/src/main/java/com/xt/open/jmall/cart/mapper/JmallMapper.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/common-mybatis/build.gradle" />
-        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/util/JmallMapper.java" />
-        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/pojo/entity/vo/CartVo.java" />
-        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/mapper/CartMapper.java" />
-        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/pojo/vo/CartVo.java" />
-        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/pojo/entity/Cart.java" />
-        <option value="$PROJECT_DIR$/product/src/main/resources/bootstarp.yml" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/controller/CartControllrr.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/remote/feignClients/CartFeignClient.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/feignclients/CartFeignClient.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/config/FeignRetryConfig.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/config/FeignCustomErrorDecoder.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/remote/feignclients/CartFeignClient.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/product/build.gradle" />
-        <option value="$PROJECT_DIR$/cart/build.gradle" />
-        <option value="$PROJECT_DIR$/../../work/mybatis-generator-ke/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/../../work/mybatis-generator-ke/src/test/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/../../work/mybatis-generator-ke/src/test/resources/generatorConfig-vo.xml" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/remote/feignclients/OrderFeignClient.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/ProductApplication.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/config/DefaultFeignConfiguration.java" />
-        <option value="$PROJECT_DIR$/product/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/interceptors/FeignCustomRequestInteceptor.java" />
-        <option value="$PROJECT_DIR$/zuul/build.gradle" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/config/ZuulConfiguration.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/config/ZuuPatternServiceRouteMapperlConfiguration.java" />
         <option value="$PROJECT_DIR$/cart/src/main/resources/bootstrap.yml" />
@@ -2141,12 +2596,50 @@
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/exception/ZuulGlobalException.java" />
         <option value="$PROJECT_DIR$/eureka/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/config/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/ZuulApplication.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/config/ZuuPatternServiceRouteMapperConfiguration.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/filter/AuthorationFilter.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/exception/TokenNotValidException.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/filter/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/auth-server/build.gradle" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/com/xt/open/jmall/auth/AuthServerApplication.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/com/xt/open/jmall/auth/config/OAuthConfiguration.java" />
+        <option value="$PROJECT_DIR$/zuul/build.gradle" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/ZuulApplication.java" />
         <option value="$PROJECT_DIR$/zuul/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/controller/CartControllrr.java" />
+        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/ProductService.java" />
+        <option value="$PROJECT_DIR$/cart/src/main/java/com/xt/open/jmall/cart/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/product/src/main/java/com/xt/open/jmall/product/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/product/build.gradle" />
+        <option value="$PROJECT_DIR$/product/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/wangyi/SchoolEnrollment.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/ArraySearchAndReplaceBlank.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/NumberMiAndChangeArrayOrder.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/ListNode.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/LinkedListRelation.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/MyQueue.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/StackRelation.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/other/StringRelation.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ReetarrenkLockTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SleepTestThread.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AQSTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/Test.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AtomicIntegerTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MultiThreadTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadStateTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/DaemonTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SynchronizedTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/WaitTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/JoinTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadLocalTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConnectionPoolTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/Mutex.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MutexTest.java" />
       </list>
     </option>
   </component>
@@ -2173,8 +2666,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2185,80 +2676,142 @@
             <path>
               <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="locks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -2268,10 +2821,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="CompositeRouteLocator&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.CompositeRouteLocator&#10;Date&#9;PSI&#9;JAVA://java.util.Date&#10;Boolea&#9;PSI&#9;JAVA://java.lang.Boolean&#10;Z&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/http/ZuulServlet.java&#10;CorsConfiguration&#9;PSI&#9;JAVA://org.springframework.web.cors.CorsConfiguration&#10;@ZuulS&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.EnableZuulServer&#10;Health&#9;PSI&#9;JAVA://org.springframework.boot.actuate.health.Health&#10;SpringCloud&#9;PSI&#9;JAVA://org.springframework.cloud.client.SpringCloudApplication&#10;SendForwardFilter&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.java&#10;SendEr&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.post.SendErrorFilter&#10;DebugF&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.pre.DebugFilter&#10;zuulFilter&#9;PSI&#9;JAVA://com.netflix.zuul.ZuulFilter&#10;ZuulProper&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.java&#10;DiscoveryClient&#9;PSI&#9;JAVA://com.netflix.discovery.DiscoveryClient&#10;BasicError&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController&#10;D&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.2.RELEASE/46958e45eee6f9b42790cad7ec61557913d4be37/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;Dis&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.3.RELEASE/4f8f174ec7368e929a20f42a759f854f3a060732/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;DispatcherServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;PatternServiceRouteMapper&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.discovery.PatternServiceRouteMapper&#10;ZuulProperties&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.ZuulProperties&#10;@Not&#9;PSI&#9;JAVA://javax.validation.constraints.NotBlank&#10;@ControllerAd&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.ControllerAdvice&#10;10010&#9;null&#9;null&#10;@PathV&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.PathVariable&#10;SynchronousMethodHandler&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-core/9.7.0/fe22398332d0c24166eafd3776cba22c4f4f5cdc/feign-core-9.7.0-sources.jar!/feign/SynchronousMethodHandler.java&#10;re&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-core/9.7.0/fe22398332d0c24166eafd3776cba22c4f4f5cdc/feign-core-9.7.0-sources.jar!/feign/RequestTemplate.java&#10;FeignFac&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.java&#10;S&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-core/9.7.0/fe22398332d0c24166eafd3776cba22c4f4f5cdc/feign-core-9.7.0-sources.jar!/feign/SynchronousMethodHandler.java&#10;Sy&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java&#10;FeignR&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java&#10;FeignL&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/ribbon/DefaultFeignLoadBalancedConfiguration.java&#10;Load&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/ribbon/LoadBalancerFeignClient.java&#10;Feign&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java&#10;HardTa&#9;PSI&#9;JAVA://feign.Target.HardCodedTarget&#10;FeignClientsRegistrar&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java&#10;HardC&#9;PSI&#9;JAVA://feign.Target.HardCodedTarget&#10;Respon&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-core/1.9.3/b2f8929e6c5f338fa3813ca96afdb27b994aa24f/eureka-core-1.9.3-sources.jar!/com/netflix/eureka/registry/ResponseCacheImpl.java&#10;FeignClientsConfiguration&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.java&#10;LoadBa&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/90366369879b985f04e5c292e921d248a396d80e/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/openfeign/ribbon/LoadBalancerFeignClient.java&#10;Hard&#9;PSI&#9;JAVA://feign.Target.HardCodedTarget&#10;HystrixF&#9;PSI&#9;JAVA://feign.hystrix.HystrixFeign&#10;WebSecur&#9;PSI&#9;JAVA://org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter" />
+    <property name="SearchEverywhereHistoryKey" value="Ree&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Futu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java&#10;ob&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;Reentr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;AtomicInteger&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;AbstractQ&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;AbstractSynchronize&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractOwnableSynchronizer&#10;Charact&#9;PSI&#9;JAVA://java.lang.Character&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;Intege&#9;PSI&#9;JAVA://java.lang.Integer&#10;Double&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Double.java&#10;Number&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Number.java&#10;HystrixCommand&#9;PSI&#9;JAVA://com.netflix.hystrix.HystrixCommand&#10;@Hystr&#9;PSI&#9;JAVA://com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand&#10;AsyncResult&#9;PSI&#9;JAVA://com.netflix.hystrix.contrib.javanica.command.AsyncResult&#10;HystrixProperty&#9;PSI&#9;JAVA://com.netflix.hystrix.strategy.properties.HystrixProperty&#10;HystrixProp&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.hystrix.HystrixProperties&#10;UsernamePasswordAuthenticationToken&#9;PSI&#9;JAVA://org.springframework.security.authentication.UsernamePasswordAuthenticationToken&#10;AuthenticationManager&#9;PSI&#9;JAVA://org.springframework.security.authentication.AuthenticationManager&#10;UserDetails&#9;PSI&#9;JAVA://org.springframework.security.core.userdetails.UserDetails&#10;User&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.1.1.RELEASE/5310fc9e1861e63a3073525f365c89be80d5967f/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java&#10;CompositeRouteLocator&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.CompositeRouteLocator&#10;Date&#9;PSI&#9;JAVA://java.util.Date&#10;Boolea&#9;PSI&#9;JAVA://java.lang.Boolean&#10;Z&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/http/ZuulServlet.java&#10;CorsConfiguration&#9;PSI&#9;JAVA://org.springframework.web.cors.CorsConfiguration&#10;@ZuulS&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.EnableZuulServer&#10;Health&#9;PSI&#9;JAVA://org.springframework.boot.actuate.health.Health&#10;SpringCloud&#9;PSI&#9;JAVA://org.springframework.cloud.client.SpringCloudApplication&#10;SendForwardFilter&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.java&#10;SendEr&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.post.SendErrorFilter&#10;DebugF&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.pre.DebugFilter&#10;zuulFilter&#9;PSI&#9;JAVA://com.netflix.zuul.ZuulFilter&#10;ZuulProper&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.java&#10;DiscoveryClient&#9;PSI&#9;JAVA://com.netflix.discovery.DiscoveryClient&#10;BasicError&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController&#10;D&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.2.RELEASE/46958e45eee6f9b42790cad7ec61557913d4be37/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;Dis&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.3.RELEASE/4f8f174ec7368e929a20f42a759f854f3a060732/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;DispatcherServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;PatternServiceRouteMapper&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.discovery.PatternServiceRouteMapper&#10;ZuulProperties&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.ZuulProperties&#10;@Not&#9;PSI&#9;JAVA://javax.validation.constraints.NotBlank&#10;@ControllerAd&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.ControllerAdvice&#10;10010&#9;null&#9;null&#10;@PathV&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.PathVariable&#10;SynchronousMethodHandler&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-core/9.7.0/fe22398332d0c24166eafd3776cba22c4f4f5cdc/feign-core-9.7.0-sources.jar!/feign/SynchronousMethodHandler.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547869991810" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551426780389" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/product/src/test/java/com/xt/open/jmall/product" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -2279,9 +2832,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46072188" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="http://gitlab.sanji-tech.com:8181/spring-cloud-demo/sj-notification.git" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xt.open.jmall.product.remote.feignclients" />
     </key>
@@ -2303,13 +2859,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulApplication">
-    <configuration name="StartUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lianjia.cto.ke.StartUp" />
-      <module name="mybatis-generator-ke" />
+  <component name="RunManager" selected="Application.ConnectionPoolTest">
+    <configuration name="ConnectionPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.ConnectionPoolTest" />
+      <module name="algorithm_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lianjia.cto.ke.*" />
+          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -2317,59 +2873,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jmall:common-mybatis [install]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/common-mybatis" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="install" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cart_main" />
+    <configuration name="JoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.JoinTest" />
+      <module name="algorithm_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xt.open.jmall.cart.*" />
+          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xt.open.jmall.cart.CartApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eureka_main" />
+    <configuration name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.SynchronizedTest" />
+      <module name="algorithm_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xt.open.jmall.eureka.*" />
+          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xt.open.jmall.eureka.EurekaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="product_main" />
+    <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.ThreadLocalTest" />
+      <module name="algorithm_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xt.open.jmall.product.*" />
+          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xt.open.jmall.product.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.WaitTest" />
+      <module name="algorithm_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="algorithm_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xt.algorithm.AlgorithmApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -2383,19 +2941,20 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.ZuulApplication" />
-      <item itemvalue="Spring Boot.EurekaApplication" />
-      <item itemvalue="Spring Boot.ProductApplication" />
-      <item itemvalue="Gradle.jmall:common-mybatis [install]" />
-      <item itemvalue="Application.StartUp" />
-      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.AlgorithmApplication" />
+      <item itemvalue="Application.SynchronizedTest" />
+      <item itemvalue="Application.WaitTest" />
+      <item itemvalue="Application.JoinTest" />
+      <item itemvalue="Application.ThreadLocalTest" />
+      <item itemvalue="Application.ConnectionPoolTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.CartApplication" />
-        <item itemvalue="Spring Boot.EurekaApplication" />
-        <item itemvalue="Application.StartUp" />
-        <item itemvalue="Spring Boot.ProductApplication" />
-        <item itemvalue="Gradle.jmall:common-mybatis [install]" />
+        <item itemvalue="Application.ConnectionPoolTest" />
+        <item itemvalue="Application.ThreadLocalTest" />
+        <item itemvalue="Application.JoinTest" />
+        <item itemvalue="Application.WaitTest" />
+        <item itemvalue="Application.SynchronizedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -2426,7 +2985,12 @@
       <workItem from="1546408064307" duration="2332000" />
       <workItem from="1546701665104" duration="8439000" />
       <workItem from="1547007847708" duration="15687000" />
-      <workItem from="1547551143743" duration="38025000" />
+      <workItem from="1547551143743" duration="42364000" />
+      <workItem from="1547879675471" duration="5401000" />
+      <workItem from="1548034689205" duration="25663000" />
+      <workItem from="1548732000380" duration="7710000" />
+      <workItem from="1548814007599" duration="70527000" />
+      <workItem from="1550656322122" duration="26308000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1544177497762</created>
@@ -2460,7 +3024,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132282000" />
+    <option name="totallyTimeSpent" value="272230000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2473,8 +3037,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19062833" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20127796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -2483,20 +3048,20 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32871288" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" visible="true" weight="0.35544553" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840257" weight="0.280198" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840257" weight="0.44158417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49928468" weight="0.32746115" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49928468" visible="true" weight="0.32673267" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.48393783" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106496" side_tool="true" weight="0.35544553" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4831683" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" weight="0.34158415" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32871288" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49946752" weight="0.32673267" />
       <window_info anchor="bottom" id="SonarLint" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
@@ -2512,7 +3077,7 @@
       <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50625" side_tool="true" weight="0.32960597" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19062833" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20127796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -2521,20 +3086,20 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32871288" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" weight="0.35544553" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.34158415" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840257" weight="0.44158417" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49928468" weight="0.32746115" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49928468" visible="true" weight="0.32673267" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.48393783" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106496" side_tool="true" weight="0.35544553" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4831683" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50159746" side_tool="true" weight="0.44158417" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32871288" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49946752" weight="0.32673267" />
       <window_info anchor="bottom" id="SonarLint" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
@@ -2560,421 +3125,468 @@
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/LinkedListRelation.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/web/ZuulController.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="30" column="51" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="61" />
+        <state relative-caret-position="-63">
+          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.3.RELEASE/4f8f174ec7368e929a20f42a759f854f3a060732/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/ServletWrappingController.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/ArraySearchAndReplaceBlank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="29" />
+        <state relative-caret-position="-416">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/util/RequestContentDataExtractor.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        <state relative-caret-position="1569">
+          <caret line="117" column="27" lean-forward="true" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/util/RequestUtils.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/LinkedListRelation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="2355">
+          <caret line="161" column="25" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.3.RELEASE/4f8f174ec7368e929a20f42a759f854f3a060732/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/SimpleUrlHandlerMapping.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        <state relative-caret-position="319">
+          <caret line="1203" column="39" lean-forward="true" selection-start-line="1203" selection-start-column="39" selection-end-line="1203" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.3.RELEASE/4f8f174ec7368e929a20f42a759f854f3a060732/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/handler/AbstractUrlHandlerMapping.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/StackRelation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="259" column="29" selection-start-line="259" selection-start-column="8" selection-end-line="259" selection-end-column="29" />
+        <state relative-caret-position="421">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.3.RELEASE/7f3018f1227075cf6e5772659e042f7cdbe59cb6/spring-web-5.1.3.RELEASE-sources.jar!/org/springframework/web/cors/CorsConfiguration.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ComparableTimSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-497">
-          <caret line="403" column="37" selection-start-line="403" selection-end-line="404" />
+        <state relative-caret-position="230">
+          <caret line="228" column="49" selection-start-line="228" selection-start-column="49" selection-end-line="228" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.1.0.M2/a451a5880a9660ea4dc289b4dc0ffe944a3ca8fe/spring-cloud-commons-2.1.0.M2-sources.jar!/org/springframework/cloud/client/discovery/event/HeartbeatMonitor.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="685">
+          <caret line="1241" column="23" selection-start-line="1241" selection-start-column="23" selection-end-line="1241" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.1.RELEASE/spring-boot-2.1.1.RELEASE.jar!/org/springframework/boot/web/servlet/ServletRegistrationBean.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        <state relative-caret-position="489">
+          <caret line="6599" column="42" selection-start-line="6599" selection-start-column="38" selection-end-line="6599" selection-end-column="42" />
           <folding>
-            <element signature="e#1134#1135#0" expanded="true" />
-            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#204938#204939#0" expanded="true" />
+            <element signature="e#204985#204986#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/ServletDetectionFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/FormBodyWrapperFilter.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/other/StringRelation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="49" column="37" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="37" />
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/DebugFilter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="23" />
+        <state relative-caret-position="145">
+          <caret line="407" column="35" selection-start-line="407" selection-start-column="12" selection-end-line="407" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/Servlet30WrapperFilter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="288">
+          <caret line="94" column="57" lean-forward="true" selection-start-line="94" selection-start-column="57" selection-end-line="94" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendResponseFilter.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ReetarrenkLockTest.java" />
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SleepTestThread.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        <state relative-caret-position="196">
+          <caret line="164" column="42" selection-start-line="164" selection-start-column="33" selection-end-line="164" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/RequestDispatcher.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/java/nio/channels/spi/AbstractSelector.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="127">
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/org/apache/catalina/core/ApplicationDispatcher.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+        <state relative-caret-position="375">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConcurrencyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="36" />
+        <state relative-caret-position="705">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/CancellationException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/ZuulRouteApplicationContextInitializer.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/channels/spi/AbstractSelector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="42" column="58" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="58" />
+        <state relative-caret-position="326">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/monitoring/TracerFactory.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="585">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
           <folding>
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1708#1709#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/monitoring/CounterFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          <folding>
-            <element signature="e#1100#1101#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/http/HttpServletRequestWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/http/HttpServletRequestWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="53" column="77" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/GenericServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/http/HttpServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="74" column="52" lean-forward="true" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.13/6a0e5cfa0bfcb46c8849118a19015c5000b1e4f9/tomcat-embed-core-9.0.13-sources.jar!/javax/servlet/ServletConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/FilterFileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/http/ZuulServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="81" column="39" lean-forward="true" selection-start-line="81" selection-end-line="82" />
-          <folding>
-            <element signature="e#4055#4056#0" expanded="true" />
-            <element signature="e#4119#4120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Boolean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-961">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/exception/ZuulException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/ExecutionStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="164" column="24" lean-forward="true" selection-start-line="164" selection-start-column="24" selection-end-line="164" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5112">
-          <caret line="850" column="40" selection-start-line="850" selection-start-column="40" selection-end-line="850" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/monitoring/MonitoringHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/monitoring/Tracer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/IZuulFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/ZuulFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="133" column="47" selection-start-line="133" selection-start-column="36" selection-end-line="133" selection-end-column="47" />
-          <folding>
-            <element signature="e#5285#5286#0" expanded="true" />
-            <element signature="e#5365#5366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="1258" column="32" lean-forward="true" selection-start-line="1258" selection-start-column="32" selection-end-line="1258" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/filters/FilterRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/ZuulServerAutoConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="288" column="44" selection-start-line="288" selection-start-column="36" selection-end-line="288" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/web/ZuulHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="78" column="65" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/SimpleRouteLocator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="181" column="36" selection-start-line="181" selection-start-column="24" selection-end-line="181" selection-end-column="36" />
-          <folding>
-            <element signature="e#5482#5483#0" expanded="true" />
-            <element signature="e#5520#5521#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/discovery/DiscoveryClientRouteLocator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="55" column="15" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="15" />
-          <folding>
-            <element signature="e#6034#6035#0" expanded="true" />
-            <element signature="e#6052#6053#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/FilterLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="182" column="69" selection-start-line="182" selection-start-column="56" selection-end-line="182" selection-end-column="69" />
-          <folding>
-            <element signature="e#2306#2332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/exception/TokenNotValidException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/xt/open/jmall/zuul/filter/AuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/ZuulFilterInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/ZuulRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="95" column="43" selection-start-line="95" selection-start-column="38" selection-end-line="95" selection-end-column="43" />
-          <folding>
-            <element signature="e#1899#1900#0" expanded="true" />
-            <element signature="e#1951#1952#0" expanded="true" />
-            <element signature="e#3206#3207#0" expanded="true" />
-            <element signature="e#3259#3260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/FilterProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="159" column="17" selection-start-line="159" selection-start-column="17" selection-end-line="159" selection-end-column="17" />
-          <folding>
-            <element signature="e#1917#1918#0" expanded="true" />
-            <element signature="e#1948#1949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/CompositeRouteLocator.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuul/src/main/resources/bootstrap.yml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="221">
+          <caret line="157" column="34" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="34" />
+          <folding>
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#4021#4022#0" expanded="true" />
+            <element signature="e#4085#4086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AtomicIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/management/MemoryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1315#1316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/management/ManagementFactoryHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="82" column="40" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MultiThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/management/ManagementFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="311" column="8" lean-forward="true" selection-start-line="311" selection-start-column="8" selection-end-line="311" selection-end-column="8" />
+          <folding>
+            <element signature="e#11435#11436#0" expanded="true" />
+            <element signature="e#11499#11500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="351" column="23" selection-start-line="351" selection-start-column="23" selection-end-line="351" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadStateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/DaemonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/Interruptible.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="915" column="19" lean-forward="true" selection-start-line="915" selection-start-column="19" selection-end-line="915" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#79046#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/out/production/classes/com/xt/algorithm/multithread/SynchronizedTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SynchronizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="277" column="35" selection-start-line="277" selection-end-line="278" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/JoinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="147" column="11" selection-start-line="147" selection-start-column="11" selection-end-line="147" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="372" column="37" selection-start-line="372" selection-start-column="32" selection-end-line="372" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/AbstractShortCircuitTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="457" column="64" lean-forward="true" selection-start-line="457" selection-start-column="64" selection-end-line="457" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadLocalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#428#567#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/WaitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConnectionPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="122" column="49" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AQSTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+          <folding>
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MutexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
+          <folding>
+            <element signature="e#9117#9118#0" expanded="true" />
+            <element signature="e#9144#9145#0" expanded="true" />
+            <element signature="e#15850#15851#0" expanded="true" />
+            <element signature="e#15881#15882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="922" column="43" selection-start-line="922" selection-start-column="33" selection-end-line="922" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#32644#32645#0" expanded="true" />
+            <element signature="e#32694#32695#0" expanded="true" />
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+            <element signature="e#46422#46423#0" expanded="true" />
+            <element signature="e#46479#46480#0" expanded="true" />
+            <element signature="e#90167#90168#0" expanded="true" />
+            <element signature="e#90251#90252#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3035,12 +3647,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>common-base_main|common-base</last-edited>
+          <last-edited>Spring|algorithm_main|algorithm</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.46072188" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -3060,7 +3671,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: com.amazonaws:aws-java-sdk-core:1.11.336</last-edited>
+          <last-edited>Gradle: tk.mybatis:mapper-spring-boot-autoconfigure:2.1.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

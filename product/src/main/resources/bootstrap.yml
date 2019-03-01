@@ -30,11 +30,16 @@ feign:
   client:
     config:
       default:
-        connectTimeout: 5000
-        readTimeout: 5000
+        connectTimeout: 1000
+        readTimeout: 1000
         loggerLevel: basic
-  okhttp:
+  httpclient:
     enabled: true
+    connection-timeout: 1000
+    max-connections: 200
+
+hyst
+
 #  hystrix:
 #    enabled: true
 

@@ -7,7 +7,8 @@ package com.xt.open.jmall.product.controller;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.xt.open.jmall.product.remote.feignclients.CartFeignClient;
-import com.xt.open.jmall.product.remote.feignclients.OrderFeignClient;
+import com.xt.open.jmall.product.service.ProductService;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -15,7 +16,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.Random;
+import java.util.concurrent.ExecutionException;
 
 /**
  * 类注释，描述
@@ -26,26 +27,36 @@ import java.util.Random;
  */
 @RequestMapping("/product")
 @RestController
+@Slf4j
 public class ProductController {
 
     @Autowired
     private CartFeignClient cartFeignClient;
 
     @Autowired
-    private OrderFeignClient orderFeignClient;
+    private ProductService productService;
 
-    //@HystrixCommand(fallbackMethod = "getDefaultValue")
+    @HystrixCommand(fallbackMethod = "getDefaultValue")
     @PostMapping("/toCart/{productId}")
-    public ResponseEntity addCart(@PathVariable("productId") Long productId) throws InterruptedException {
-        //Thread.sleep(new Random().nextInt(5000));
+    public ResponseEntity addCart(@PathVariable("productId") Long productId){
         Long aLong = cartFeignClient.addCart(productId);
-        Long addCart = orderFeignClient.addCart(productId);
-        System.out.println(addCart);
         System.out.println(aLong);
+
         return ResponseEntity.ok(productId);
     }
 
-    public ResponseEntity getDefaultValue(Long productId){
+    private ResponseEntity getDefaultValue(Long productId) {
         return ResponseEntity.ok(0);
     }
+
+    @PostMapping("/async/toCart/{productId}")
+    public ResponseEntity<Long> asyncAddCart(@PathVariable("productId") Long productId) throws ExecutionException, InterruptedException {
+        return productService.asyncAddCart(productId).get();
+    }
+
+    @PostMapping("/async2/toCart/{productId}")
+    public ResponseEntity<Long> asyncAddCart2(@PathVariable("productId") Long productId) throws ExecutionException, InterruptedException {
+        return productService.asyncAddCart2(productId).get();
+    }
+
 }

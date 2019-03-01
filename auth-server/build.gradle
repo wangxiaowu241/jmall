@@ -1,8 +1,9 @@
 buildscript {
     ext {
-        springBootVersion = '2.1.1.RELEASE'
+        springBootVersion = '2.1.0.RELEASE'
     }
     repositories {
+        mavenLocal()
         mavenCentral()
     }
     dependencies {
@@ -20,18 +21,28 @@ version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
 repositories {
+    mavenLocal()
     mavenCentral()
     maven { url "https://repo.spring.io/milestone" }
 }
 
-ext['springCloudVersion'] = 'Greenwich.M3'
+
+ext {
+    springCloudVersion = 'Greenwich.M1'
+}
 
 dependencies {
-    implementation('org.springframework.cloud:spring-cloud-starter-netflix-zuul')
-    testImplementation('org.springframework.boot:spring-boot-starter-test')
+    implementation('org.springframework.boot:spring-boot-starter-web')
     implementation('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client')
-//    implementation('org.springframework.cloud:spring-cloud-starter-security')
-//    implementation('org.springframework.cloud:spring-cloud-starter-oauth2')
+    testImplementation('org.springframework.boot:spring-boot-starter-test')
+    implementation 'org.projectlombok:lombok:1.16.20'
+    implementation 'io.springfox:springfox-swagger2:2.9.2'
+    implementation 'io.springfox:springfox-swagger-ui:2.9.2'
+    implementation('com.xt.java:common-mybatis:1.0-SNAPSHOT')
+    implementation('org.springframework.cloud:spring-cloud-starter-oauth2')
+
+
+
 
 }
 

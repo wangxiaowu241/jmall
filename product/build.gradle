@@ -22,6 +22,8 @@ sourceCompatibility = 1.8
 repositories {
     mavenLocal()
     mavenCentral()
+    maven { url "https://repo.spring.io/milestone" }
+
 }
 
 
@@ -32,7 +34,7 @@ dependencies {
     implementation('org.projectlombok:lombok:1.16.20')
     implementation('org.projectlombok:lombok-maven-plugin:1.16.20.0')
     implementation('org.springframework.boot:spring-boot-starter-web')
-    implementation('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.1.0.M1')
+    implementation('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.0.2.RELEASE')
     implementation('com.xt.java:common-mybatis:1.0-SNAPSHOT')
 
     testImplementation('org.springframework.boot:spring-boot-starter-test')

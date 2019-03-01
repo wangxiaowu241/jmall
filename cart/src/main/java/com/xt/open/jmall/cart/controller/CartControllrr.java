@@ -26,7 +26,9 @@ public class CartControllrr {
     @ApiOperation("添加商品到购物车")
     @ApiImplicitParam(name = "productId",value = "productId",required = true,paramType ="path",dataType = "String")
     @PostMapping("/{productId}")
-    public ResponseEntity addCart(@PathVariable("productId") Long productId) {
+    public ResponseEntity addCart(@PathVariable("productId") Long productId) throws InterruptedException {
+        Thread.sleep(5000);
+
         System.out.println(productId);
         return ResponseEntity.ok(productId);
     }

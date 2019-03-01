@@ -4,4 +4,5 @@ include('cart')
 include 'common-mybatis'
 include 'product'
 include 'common-base'
+include 'auth-server'
 

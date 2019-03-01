@@ -1,20 +1,35 @@
 spring:
   application:
-    name: zuul
+    name: zuul #应用名称
 server:
-  port: 8080
+  port: 8080 #应用服务端口
 
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://localhost:8761/eureka  #配置eureka 默认的地址，也可以分region配置eureka
 
 ribbon:
   okhttp:
-    enabled: true
+    enabled: true #开启ribbon 使用OKhttp发送http请求
+
+  ReadTimeout: 5000
+  ConnectTimeout: 5000
 
 zuul:
-  prefix: /api
-  strip-prefix: true
+  prefix: /api #定义全局路由前缀
+  strip-prefix: true #路由到下游服务时开启去除前缀开关
+
+#security:
+#  basic: false #关闭basic认证
+#  oauth2:
+#    client:
+#      access-token-uri: http://localhost:7777/uaa/oauth/token #令牌端点
+#      user-authorization-uri: http://localhost:7777/uaa/oauth/authorize #授权端点
+#      client-id: zuul #OAuth2客户端id
+#      client-secret: zuul_client_secret #OAuth2客户端秘钥
+#    resource:
+#      jwt:
+#        key-value: springcloud123 #使用对称方式，默认算法为HS256
 
 

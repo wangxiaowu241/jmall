@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_main.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_test.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server.iml" group="auth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server/auth-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server/auth-server_main.iml" group="auth-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server/auth-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server/auth-server_test.iml" group="auth-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart.iml" group="cart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" group="cart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" group="cart" />
