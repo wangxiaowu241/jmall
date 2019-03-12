@@ -37,7 +37,7 @@ public class ReadWriteLockTest {
                     System.out.println(Thread.currentThread().getName() + " read cache " + get("key"));
 
                 }
-            }, "Thread-" + String.valueOf(i)).start();
+            }, "Thread-" + i).start();
 
         }
 
@@ -53,7 +53,7 @@ public class ReadWriteLockTest {
                     System.out.println(Thread.currentThread().getName() + " put cache ");
 
                 }
-            }, "Thread-" + String.valueOf(j)).start();
+            }, "Thread-" + j).start();
 
         }
     }
