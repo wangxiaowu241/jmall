@@ -10,8 +10,8 @@ import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 /**
  * AQS test -
  *
- * @author wangxiaoteng
- * @version $Id: AQSTest.java,v 1.0 2019/2/20 11:21 AM wangxiaoteng
+ * @author
+ * @version $Id: AQSTest.java,v 1.0 2019/2/20 11:21 AM
  * @date 2019/2/20 下午11:21 AM
  */
 public class AQSTest {

@@ -12,8 +12,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
- * @version $Id: AtomicIntegerTest.java,v 1.0 2019/2/21 11:26 AM wangxiaoteng
+ * @author
+ * @version $Id: AtomicIntegerTest.java,v 1.0 2019/2/21 11:26 AM
  * @date 2019/2/21 下午11:26 AM
  */
 public class AtomicIntegerTest {

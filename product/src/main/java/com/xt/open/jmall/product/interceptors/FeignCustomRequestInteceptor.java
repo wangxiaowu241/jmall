@@ -1,5 +1,5 @@
 /**
- * $Id: FeignCustomRequestInteceptor.java,v 1.0 2018/12/10 6:56 PM wangxiaoteng
+ * $Id: FeignCustomRequestInteceptor.java,v 1.0 2018/12/10 6:56 PM
  *
  * @Copyright (c) 2018/12/10, Lianjia Group All Rights Reserved.
  */
@@ -21,8 +21,8 @@ import java.util.Map;
 /**
  * 解决feign get请求不能传输pojo的问题
  *
- * @author wangxiaoteng
- * @version $Id: FeignCustomRequestInteceptor.java,v 1.0 2018/12/10 6:56 PM wangxiaoteng
+ * @author
+ * @version $Id: FeignCustomRequestInteceptor.java,v 1.0 2018/12/10 6:56 PM
  * @date 2018/12/10 下午6:56 PM
  */
 @Component

@@ -8,8 +8,8 @@ package com.xt.algorithm.multithread;
 /**
  * 测试多线程是否一定比单线程快
  *
- * @author wangxiaoteng
- * @version $Id: ConcurrencyTest.java,v 1.0 2019/2/19 4:25 PM wangxiaoteng
+ * @author
+ * @version $Id: ConcurrencyTest.java,v 1.0 2019/2/19 4:25 PM
  * @date 2019/2/19 下午4:25 PM
  */
 public class ConcurrencyTest {

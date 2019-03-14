@@ -1,5 +1,5 @@
 /**
- * $Id: ConnectionPoolTest.java,v 1.0 2019/3/1 9:58 AM wangxiaoteng
+ * $Id: ConnectionPoolTest.java,v 1.0 2019/3/1 9:58 AM
  *
  * @Copyright (c) 2019/3/1, Lianjia Group All Rights Reserved.
  */
@@ -17,8 +17,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * wait & notify 实现连接池
  *
- * @author wangxiaoteng
- * @version $Id: ConnectionPoolTest.java,v 1.0 2019/3/1 9:58 AM wangxiaoteng
+ * @author
+ * @version $Id: ConnectionPoolTest.java,v 1.0 2019/3/1 9:58 AM
  * @date 2019/3/1 下午9:58 AM
  */
 public class ConnectionPoolTest {

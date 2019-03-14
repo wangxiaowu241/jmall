@@ -1,5 +1,5 @@
 /**
- * $Id: ReadWriteLockTest.java,v 1.0 2019/3/6 9:57 AM wangxiaoteng
+ * $Id: ReadWriteLockTest.java,v 1.0 2019/3/6 9:57 AM
  *
  * @Copyright (c) 2019/3/6, Lianjia Group All Rights Reserved.
  */
@@ -12,8 +12,8 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 /**
  * 读写锁的简单使用
  *
- * @author wangxiaoteng
- * @version $Id: ReadWriteLockTest.java,v 1.0 2019/3/6 9:57 AM wangxiaoteng
+ * @author
+ * @version $Id: ReadWriteLockTest.java,v 1.0 2019/3/6 9:57 AM
  * @date 2019/3/6 下午9:57 AM
  */
 public class ReadWriteLockTest {

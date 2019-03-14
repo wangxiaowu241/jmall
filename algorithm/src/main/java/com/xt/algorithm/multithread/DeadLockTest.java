@@ -1,5 +1,5 @@
 /**
- * $Id: DeadLockTest.java,v 1.0 2019/3/14 9:12 PM wangxiaoteng
+ * $Id: DeadLockTest.java,v 1.0 2019/3/14 9:12 PM
  *
  * @Copyright (c) 2019/3/14, Lianjia Group All Rights Reserved.
  */
@@ -8,8 +8,8 @@ package com.xt.algorithm.multithread;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
- * @version $Id: DeadLockTest.java,v 1.0 2019/3/14 9:12 PM wangxiaoteng
+ * @author
+ * @version $Id: DeadLockTest.java,v 1.0 2019/3/14 9:12 PM
  * @date 2019/3/14 下午9:12 PM
  */
 public class DeadLockTest {

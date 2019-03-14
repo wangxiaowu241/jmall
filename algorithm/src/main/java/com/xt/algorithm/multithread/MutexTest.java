@@ -1,5 +1,5 @@
 /**
- * $Id: MutexTest.java,v 1.0 2019/3/1 11:27 AM wangxiaoteng
+ * $Id: MutexTest.java,v 1.0 2019/3/1 11:27 AM
  *
  * @Copyright (c) 2019/3/1, Lianjia Group All Rights Reserved.
  */
@@ -11,7 +11,7 @@ import java.util.concurrent.locks.AbstractQueuedSynchronizer;
  * AQS test
  *
  * @author wangxiaoteng
- * @version $Id: MutexTest.java,v 1.0 2019/3/1 11:27 AM wangxiaoteng
+ * @version $Id: MutexTest.java,v 1.0 2019/3/1 11:27 AM
  * @date 2019/3/1 下午11:27 AM
  */
 public class MutexTest {

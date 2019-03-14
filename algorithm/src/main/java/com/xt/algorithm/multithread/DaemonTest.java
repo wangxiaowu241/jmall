@@ -10,8 +10,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * 守护线程test
  *
- * @author wangxiaoteng
- * @version $Id: DaemonTest.java,v 1.0 2019/2/26 5:02 PM wangxiaoteng
+ * @author
+ * @version $Id: DaemonTest.java,v 1.0 2019/2/26 5:02 PM
  * @date 2019/2/26 下午5:02 PM
  */
 public class DaemonTest {

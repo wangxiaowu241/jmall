@@ -1,5 +1,5 @@
 /**
- * $Id: JoinTest.java,v 1.0 2019/2/28 2:56 PM wangxiaoteng
+ * $Id: JoinTest.java,v 1.0 2019/2/28 2:56 PM
  *
  * @Copyright (c) 2019/2/28, Lianjia Group All Rights Reserved.
  */
@@ -8,8 +8,8 @@ package com.xt.algorithm.multithread;
 /**
  * Thread.join()方法测试
  *
- * @author wangxiaoteng
- * @version $Id: JoinTest.java,v 1.0 2019/2/28 2:56 PM wangxiaoteng
+ * @author
+ * @version $Id: JoinTest.java,v 1.0 2019/2/28 2:56 PM
  * @date 2019/2/28 下午2:56 PM
  */
 public class JoinTest {

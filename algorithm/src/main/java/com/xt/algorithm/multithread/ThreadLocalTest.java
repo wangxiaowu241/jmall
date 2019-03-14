@@ -1,5 +1,5 @@
 /**
- * $Id: ThreadLocalTest.java,v 1.0 2019/2/28 3:17 PM wangxiaoteng
+ * $Id: ThreadLocalTest.java,v 1.0 2019/2/28 3:17 PM
  *
  * @Copyright (c) 2019/2/28, Lianjia Group All Rights Reserved.
  */
@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
  * ThreadLocal 的简单使用
  *
  * @author wangxiaoteng
- * @version $Id: ThreadLocalTest.java,v 1.0 2019/2/28 3:17 PM wangxiaoteng
+ * @version $Id: ThreadLocalTest.java,v 1.0 2019/2/28 3:17 PM
  * @date 2019/2/28 下午3:17 PM
  */
 public class ThreadLocalTest {

@@ -1,5 +1,5 @@
 /**
- * $Id: TwinsLockTest.java,v 1.0 2019/3/1 4:14 PM wangxiaoteng
+ * $Id: TwinsLockTest.java,v 1.0 2019/3/1 4:14 PM
  *
  * @Copyright (c) 2019/3/1, Lianjia Group All Rights Reserved.
  */
@@ -11,8 +11,8 @@ import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 /**
  * 自定义同步组件，同一时刻，至多只允许两个线程同时访问
  *
- * @author wangxiaoteng
- * @version $Id: TwinsLockTest.java,v 1.0 2019/3/1 4:14 PM wangxiaoteng
+ * @author
+ * @version $Id: TwinsLockTest.java,v 1.0 2019/3/1 4:14 PM
  * @date 2019/3/1 下午4:14 PM
  */
 public class TwinsLockTest {
