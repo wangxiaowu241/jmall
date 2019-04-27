@@ -24,10 +24,7 @@ public class AQSTest {
         Sync sync = aqsTest.new Sync();
 
         for (int i = 0; i < 10; i++) {
-            Thread thread = new Thread(new Runnable() {
-
-                @Override
-                public void run() {
+            Thread thread = new Thread(()-> {
                     sync.lock();
                     try {
                         Thread.sleep(500);
@@ -35,7 +32,6 @@ public class AQSTest {
                         e.printStackTrace();
                     }
                     sync.unlock();
-                }
             });
             thread.start();
         }
