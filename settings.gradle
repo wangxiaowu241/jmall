@@ -5,4 +5,6 @@ include 'common-mybatis'
 include 'product'
 include 'common-base'
 include 'auth-server'
+include 'zuul'
+include 'algorithm'
 

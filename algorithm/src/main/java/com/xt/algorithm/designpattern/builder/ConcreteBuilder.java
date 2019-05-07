@@ -6,7 +6,7 @@ package com.xt.algorithm.designpattern.builder;
  * @author wangxiaoteng
  * @date 2019/4/30 14:58
  */
-public class ConcreteBuidler implements Builder {
+public class ConcreteBuilder implements Builder {
 
   private Computer computer = new Computer();
 

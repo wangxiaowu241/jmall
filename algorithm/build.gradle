@@ -3,6 +3,9 @@ buildscript {
         springBootVersion = '2.1.2.RELEASE'
     }
     repositories {
+        mavenLocal()
+        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+        maven{ url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'}
         mavenCentral()
     }
     dependencies {
@@ -16,7 +19,7 @@ apply plugin: 'io.spring.dependency-management'
 
 group = 'com.xt'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '1.8'
+sourceCompatibility = '1.10'
 
 repositories {
     mavenLocal()

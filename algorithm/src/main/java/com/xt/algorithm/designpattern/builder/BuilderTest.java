@@ -16,8 +16,8 @@ public class BuilderTest {
 
   public static void main(String[] args) {
 
-    ConcreteBuidler concreteBuidler = new ConcreteBuidler();
-    Director director = new Director(concreteBuidler);
+    ConcreteBuilder concreteBuilder = new ConcreteBuilder();
+    Director director = new Director(concreteBuilder);
     Computer computer = director.createComputer(
         "intel core i7",
         "huashuo mainboard",
