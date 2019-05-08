@@ -14,6 +14,7 @@ public class PreSubjectDecorator implements Subject {
 
   @Override
   public void show() {
+    preShow();
     subject.show();
   }
 

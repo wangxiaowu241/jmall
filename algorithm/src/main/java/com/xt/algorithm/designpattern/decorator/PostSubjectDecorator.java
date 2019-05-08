@@ -15,9 +15,10 @@ public class PostSubjectDecorator implements Subject {
   @Override
   public void show() {
     subject.show();
+    postShow();
   }
 
-  private void preShow() {
+  private void postShow() {
     System.out.println("后置装饰。。。");
   }
 }
