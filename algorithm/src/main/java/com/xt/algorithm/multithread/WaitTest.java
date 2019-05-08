@@ -17,9 +17,9 @@ import java.util.Date;
  */
 public class WaitTest {
 
-    static boolean flag = true;
+    private static boolean flag = true;
 
-    static Object lock = new Object();
+    private static Object lock = new Object();
 
 
     public static void main(String[] args) throws InterruptedException {

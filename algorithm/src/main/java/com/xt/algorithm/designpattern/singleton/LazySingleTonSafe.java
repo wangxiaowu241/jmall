@@ -20,7 +20,7 @@ public class LazySingleTonSafe {
   private LazySingleTonSafe() {
   }
 
-  private synchronized static LazySingleTonSafe getInstance() {
+  public synchronized static LazySingleTonSafe getInstance() {
     if (null == instance) {
       instance = new LazySingleTonSafe();
     }

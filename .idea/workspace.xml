@@ -2,36 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="059e5a6b-3dd6-4742-8fad-57ee2e17dfb9" name="Default Changelist" comment="concurrent package">
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/AbstractFactoryDesignTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/FactoryProfucer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/FactoryDesignTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/CycliBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SemaphoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/composite/CompositeDesignTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/composite/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-mybatis/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-server/out/production/classes/com/xt/open/jmall/auth/AuthServerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-server/out/production/classes/com/xt/open/jmall/auth/config/OAuthConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-mybatis/build/libs/common-mybatis-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-mybatis/build/libs/common-mybatis-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-mybatis/out/production/classes/com/xt/open/jmall/cart/mapper/JmallMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/LazySingleTonSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/LazySingleTonSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConditionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConditionTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConnectionPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConnectionPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SynchronizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/WaitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/WaitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/auth-server/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cart/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-base/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common-base/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-mybatis/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common-mybatis/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-mybatis/build/classes/java/main/com/xt/open/jmall/cart/mapper/JmallMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-mybatis/build/libs/common-mybatis-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-mybatis/build/poms/pom-default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-mybatis/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuul/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -126,22 +117,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="algorithm" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -149,7 +125,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -161,12 +137,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>errorController</find>
-      <find>hashFiltersByType</find>
-      <find>metricPrefix</find>
-      <find>compare</find>
-      <find>an</find>
-      <find>antMatcher</find>
       <find>authenticationManager</find>
       <find>getProperties</find>
       <find>equal</find>
@@ -191,6 +161,12 @@
       <find>signal()</find>
       <find>execute()</find>
       <find>execute(</find>
+      <find>lombok</find>
+      <find>lom</find>
+      <find>compile</find>
+      <find>compile(</find>
+      <find>lombo</find>
+      <find>1.8</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -211,40 +187,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/LinkedListRelation.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/MyQueue.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/offer/StackRelation.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/other/StringRelation.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ReetarrenkLockTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SleepTestThread.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConcurrencyTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AQSTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/Test.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AtomicIntegerTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MultiThreadTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadStateTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/DaemonTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SynchronizedTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/WaitTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/JoinTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ThreadLocalTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConnectionPoolTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/Mutex.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/MutexTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/TwinsLockTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ReadWriteLockTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConditionTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConditionTest2.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ReadArticleTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ForkJoinTest.java" />
-        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AtomicReferenceTest.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/CountDownLatchTest.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/CycliBarrierTest.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SemaphoreTest.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/algorithm/build.gradle" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Shape.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Rectangle.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Circle.java" />
@@ -262,6 +207,37 @@
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/ColorFactory.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/AbstractFactoryTest.java" />
         <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/AbstractFactoryDesignTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/LazySignleTonNoSafe.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/LazySingleTonNoSafe.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/LazySingleTonSafe.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/HungrySingleTon.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/DoubleCheckedLockSingleTon.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/singleton/StaticInnerClassSingleTon.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/Product.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/Computer.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/Builder.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/Director.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/BuilderTest.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/ConcreteBuidler.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/ConcreteBuilder.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AdvancedAudioPlayer.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/MP4Player.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/VLCPlayer.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AdapterDesignTest.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AudioAdapter.java" />
+        <option value="$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/algorithm/build.gradle" />
+        <option value="$PROJECT_DIR$/common-mybatis/settings.gradle" />
+        <option value="$PROJECT_DIR$/product/build.gradle" />
+        <option value="$PROJECT_DIR$/eureka/build.gradle" />
+        <option value="$PROJECT_DIR$/auth-server/build.gradle" />
+        <option value="$PROJECT_DIR$/zuul/build.gradle" />
+        <option value="$PROJECT_DIR$/cart/build.gradle" />
+        <option value="$PROJECT_DIR$/common-base/build.gradle" />
+        <option value="$PROJECT_DIR$/common-mybatis/build.gradle" />
       </list>
     </option>
   </component>
@@ -271,11 +247,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-5" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="10" />
+    <option name="width" value="1920" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -283,8 +259,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,55 +271,12 @@
               <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="algorithm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jmall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="common-mybatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,15 +288,15 @@
     <property name="SearchEverywhereHistoryKey" value="Reentrant&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java&#10;Ree&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Futu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java&#10;ob&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;Reentr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;AtomicInteger&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;AbstractQ&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;AbstractSynchronize&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractOwnableSynchronizer&#10;Charact&#9;PSI&#9;JAVA://java.lang.Character&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;Intege&#9;PSI&#9;JAVA://java.lang.Integer&#10;Double&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Double.java&#10;Number&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Number.java&#10;HystrixCommand&#9;PSI&#9;JAVA://com.netflix.hystrix.HystrixCommand&#10;@Hystr&#9;PSI&#9;JAVA://com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand&#10;AsyncResult&#9;PSI&#9;JAVA://com.netflix.hystrix.contrib.javanica.command.AsyncResult&#10;HystrixProperty&#9;PSI&#9;JAVA://com.netflix.hystrix.strategy.properties.HystrixProperty&#10;HystrixProp&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.hystrix.HystrixProperties&#10;UsernamePasswordAuthenticationToken&#9;PSI&#9;JAVA://org.springframework.security.authentication.UsernamePasswordAuthenticationToken&#10;AuthenticationManager&#9;PSI&#9;JAVA://org.springframework.security.authentication.AuthenticationManager&#10;UserDetails&#9;PSI&#9;JAVA://org.springframework.security.core.userdetails.UserDetails&#10;User&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.1.1.RELEASE/5310fc9e1861e63a3073525f365c89be80d5967f/spring-security-core-5.1.1.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java&#10;CompositeRouteLocator&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.CompositeRouteLocator&#10;Date&#9;PSI&#9;JAVA://java.util.Date&#10;Boolea&#9;PSI&#9;JAVA://java.lang.Boolean&#10;Z&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/http/ZuulServlet.java&#10;CorsConfiguration&#9;PSI&#9;JAVA://org.springframework.web.cors.CorsConfiguration&#10;@ZuulS&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.EnableZuulServer&#10;Health&#9;PSI&#9;JAVA://org.springframework.boot.actuate.health.Health&#10;SpringCloud&#9;PSI&#9;JAVA://org.springframework.cloud.client.SpringCloudApplication&#10;SendForwardFilter&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.java&#10;SendEr&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.post.SendErrorFilter&#10;DebugF&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.pre.DebugFilter&#10;zuulFilter&#9;PSI&#9;JAVA://com.netflix.zuul.ZuulFilter&#10;ZuulProper&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.0.M3/99c6edeeaead28252a1e1efbb4de394f5ccf26d7/spring-cloud-netflix-zuul-2.1.0.M3-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.java&#10;DiscoveryClient&#9;PSI&#9;JAVA://com.netflix.discovery.DiscoveryClient&#10;BasicError&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController&#10;D&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.2.RELEASE/46958e45eee6f9b42790cad7ec61557913d4be37/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;Dis&#9;FILE&#9;jar:///Users/wangwangxiaoteng/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.1.3.RELEASE/4f8f174ec7368e929a20f42a759f854f3a060732/spring-webmvc-5.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;DispatcherServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;PatternServiceRouteMapper&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.discovery.PatternServiceRouteMapper&#10;ZuulProperties&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.zuul.filters.ZuulProperties&#10;@Not&#9;PSI&#9;JAVA://javax.validation.constraints.NotBlank&#10;@ControllerAd&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.ControllerAdvice&#10;10010&#9;null&#9;null&#10;@PathV&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.PathVariable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556531664121" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557235495135" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/product/src/test/java/com/xt/open/jmall/product" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46072188" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -376,6 +307,7 @@
       <recent name="com.xt.open.jmall.product.remote.feignclients" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\github\jmall\common-mybatis" />
       <recent name="E:\code\github\jmall\algorithm\src\main\java\com\xt\algorithm\designpattern\abstractfactory\shape" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/eureka/src/main/resources" />
@@ -394,13 +326,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryDesignTest">
-    <configuration name="AbstractFactoryDesignTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.designpattern.abstractfactory.AbstractFactoryDesignTest" />
+  <component name="RunManager" selected="Gradle.jmall:common-mybatis [install]">
+    <configuration name="AdapterDesignTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.designpattern.adapter.AdapterDesignTest" />
       <module name="com.xt.algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xt.algorithm.designpattern.abstractfactory.*" />
+          <option name="PATTERN" value="com.xt.algorithm.designpattern.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,12 +340,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.CountDownLatchTest" />
+    <configuration name="BuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.designpattern.builder.BuilderTest" />
       <module name="com.xt.algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
+          <option name="PATTERN" value="com.xt.algorithm.designpattern.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,44 +353,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CycliBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.CycliBarrierTest" />
-      <module name="com.xt.algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="jmall:common-mybatis [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/common-mybatis" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="FactoryDesignTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.designpattern.factory.FactoryDesignTest" />
-      <module name="com.xt.algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xt.algorithm.designpattern.abstractfactory.shape.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="jmall:common-mybatis [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/common-mybatis" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="SemaphoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xt.algorithm.multithread.SemaphoreTest" />
-      <module name="com.xt.algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xt.algorithm.multithread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="jmall:common-mybatis [install]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/common-mybatis" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="install" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="AlgorithmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="com.xt.algorithm.main" />
@@ -504,11 +454,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractFactoryDesignTest" />
-        <item itemvalue="Application.FactoryDesignTest" />
-        <item itemvalue="Application.SemaphoreTest" />
-        <item itemvalue="Application.CycliBarrierTest" />
-        <item itemvalue="Application.CountDownLatchTest" />
+        <item itemvalue="Gradle.jmall:common-mybatis [install]" />
+        <item itemvalue="Gradle.jmall:common-mybatis [build]" />
+        <item itemvalue="Gradle.jmall:common-mybatis [clean]" />
+        <item itemvalue="Application.AdapterDesignTest" />
+        <item itemvalue="Application.BuilderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -554,6 +504,11 @@
       <workItem from="1552383749482" duration="8160000" />
       <workItem from="1552528008591" duration="64000" />
       <workItem from="1556529274608" duration="2532000" />
+      <workItem from="1556531869855" duration="10074000" />
+      <workItem from="1557020554864" duration="5277000" />
+      <workItem from="1557229697017" duration="4601000" />
+      <workItem from="1557280488795" duration="598000" />
+      <workItem from="1557291291026" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1544177497762</created>
@@ -590,11 +545,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552386773699</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="设计模式">
+      <created>1557040374135</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557040374135</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="300961000" />
+    <option name="totallyTimeSpent" value="322110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,9 +568,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-5" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="7" width="1280" height="680" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.2217484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.37806875" />
       <window_info id="Structure" order="1" sideWeight="0.5012658" side_tool="true" weight="0.24609375" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -618,34 +580,34 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.4110629" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.3959854" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840257" weight="0.74222225" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49928468" weight="0.3264642" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32846716" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49928468" weight="0.3248175" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49893504" weight="0.34930447" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" weight="0.85" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.497979" weight="0.348135" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502455" side_tool="true" weight="0.3248175" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.3285968" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49946752" weight="0.3253796" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.497545" visible="true" weight="0.3248175" />
       <window_info anchor="bottom" id="SonarLint" order="15" />
       <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24946696" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2489895" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32960597" />
-      <window_info anchor="right" id="Gradle" order="7" sideWeight="0.49375" weight="0.32782516" />
+      <window_info anchor="right" id="Gradle" order="7" sideWeight="0.49270073" weight="0.3927987" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" weight="0.32960597" />
       <window_info anchor="right" id="Coverage" order="11" sideWeight="0.50625" side_tool="true" weight="0.32960597" />
-      <window_info anchor="right" id="Maven" order="12" />
+      <window_info anchor="right" id="Maven" order="12" sideWeight="0.50729924" side_tool="true" weight="0.3927987" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.2217484" />
@@ -694,7 +656,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="concurrent package" />
-    <option name="LAST_COMMIT_MESSAGE" value="concurrent package" />
+    <MESSAGE value="设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -713,237 +676,304 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SynchronizedTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/annotation/NameStyle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="187">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.2.RELEASE/15155eeb74034deaccf6035adb8cdca10dd07448/spring-boot-2.1.2.RELEASE-sources.jar!/org/springframework/boot/web/client/RestTemplateBuilder.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/HttpURLConnection.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/annotation/LogicDelete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5525">
-          <caret line="320" column="14" selection-start-line="320" selection-start-column="14" selection-end-line="320" selection-end-column="14" />
-          <folding>
-            <element signature="e#11563#11564#0" expanded="true" />
-            <element signature="e#11587#11588#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ReadArticleTest.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ForkJoinPool.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/annotation/KeySql.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="858" column="19" selection-start-line="858" selection-start-column="19" selection-end-line="858" selection-end-column="19" />
+        <state relative-caret-position="238">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ForkJoinWorkerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ForkJoinTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="390" column="14" selection-start-line="390" selection-start-column="14" selection-end-line="390" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ForkJoinTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="47" column="50" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AQSTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AtomicIntegerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/AtomicReferenceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-end-line="17" />
-          <folding>
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConcurrencyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConditionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConditionTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/CountDownLatchTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/annotation/ColumnType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/CycliBarrierTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/annotation/RegisterMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="29" column="26" selection-start-line="29" selection-end-line="30" />
+        <state relative-caret-position="204">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/annotation/Version.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/code/IdentityDialect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/code/ORDER.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/code/Style.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/entity/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/genid/GenIdUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-334">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1555">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/util/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/util/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-core/1.1.1/7d3734cf9b4b7a75d75c3aaeeb3edb121c935711/mapper-core-1.1.1-sources.jar!/tk/mybatis/mapper/util/Sqls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3241">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-weekend/1.1.4.3/9368209ec62d1c72d72b06d5da5b960110887ea9/mapper-weekend-1.1.4.3-sources.jar!/tk/mybatis/mapper/weekend/reflection/Reflections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-weekend/1.1.4.3/9368209ec62d1c72d72b06d5da5b960110887ea9/mapper-weekend-1.1.4.3-sources.jar!/tk/mybatis/mapper/weekend/reflection/ReflectionOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-weekend/1.1.4.3/9368209ec62d1c72d72b06d5da5b960110887ea9/mapper-weekend-1.1.4.3-sources.jar!/tk/mybatis/mapper/weekend/WeekendCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-weekend/1.1.4.3/9368209ec62d1c72d72b06d5da5b960110887ea9/mapper-weekend-1.1.4.3-sources.jar!/tk/mybatis/mapper/weekend/WeekendSqls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="295" column="45" lean-forward="true" selection-start-line="295" selection-start-column="45" selection-end-line="295" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/Builder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/BuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/builder/ConcreteBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/ConnectionPoolTest.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/MP4Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="109" column="13" lean-forward="true" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="1136" column="18" selection-start-line="1136" selection-start-column="18" selection-end-line="1136" selection-end-column="18" />
+        <state relative-caret-position="221">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AdvancedAudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/VLCPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <element signature="e#22675#22676#0" expanded="true" />
-            <element signature="e#22703#22704#0" expanded="true" />
-            <element signature="e#44444#44445#0" expanded="true" />
-            <element signature="e#44501#44502#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Semaphore.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="242" column="22" selection-start-line="242" selection-start-column="22" selection-end-line="242" selection-end-column="22" />
+        <state relative-caret-position="-2518" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadFactory.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AdapterDesignTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="67" column="15" lean-forward="true" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/time/format/DateTimeFormatter.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AudioAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15283">
-          <caret line="993" column="42" selection-start-line="993" selection-start-column="42" selection-end-line="993" selection-end-column="42" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/Executors.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/adapter/AudioPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9350">
-          <caret line="595" column="51" selection-start-line="595" selection-start-column="51" selection-end-line="595" selection-end-column="51" />
+        <state relative-caret-position="306">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core-api/org/gradle/api/artifacts/dsl/DependencyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="117" column="13" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="13" />
           <folding>
-            <element signature="e#15215#15216#0" expanded="true" />
-            <element signature="e#15264#15265#0" expanded="true" />
+            <element signature="e#0#16011#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+    <entry file="file://$PROJECT_DIR$/algorithm/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1045" column="21" selection-start-line="1045" selection-start-column="21" selection-end-line="1045" selection-end-column="21" />
-          <folding>
-            <element signature="e#16766#16767#0" expanded="true" />
-            <element signature="e#16801#16802#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="139">
+          <caret line="32" column="34" selection-start-line="32" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/multithread/SemaphoreTest.java">
+    <entry file="file://$PROJECT_DIR$/cart/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="91">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-base/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common-mybatis/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-all/41c9mvq2w0645xx6nsenaerjl/gradle-4.8/src/core-api/org/gradle/api/artifacts/dsl/RepositoryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="182" column="28" selection-start-line="182" selection-start-column="28" selection-end-line="182" selection-end-column="28" />
+        <state relative-caret-position="495">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -952,176 +982,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/build.gradle">
+    <entry file="file://$PROJECT_DIR$/common-mybatis/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="31">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/AlgorithmApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Square.java">
+    <entry file="file://$PROJECT_DIR$/eureka/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/product/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Shape.java">
+    <entry file="file://$PROJECT_DIR$/zuul/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/Circle.java">
+    <entry file="file://$PROJECT_DIR$/common-mybatis/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="60" selection-start-column="38" selection-end-column="60" />
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Color.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Red.java">
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Blue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-end-line="11" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/Green.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/shape/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="16" selection-start-line="10" selection-start-column="4" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/color/ColorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/FactoryProfucer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/FactoryDesignTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="36" column="18" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/abstractfactory/AbstractFactoryDesignTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/src/main/java/com/xt/algorithm/designpattern/factory/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -1170,7 +1064,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1182,7 +1076,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>algorithm|xt</last-edited>
+          <last-edited>main|auth-server|open.jmall|xt</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

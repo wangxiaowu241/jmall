@@ -14,11 +14,9 @@ package com.xt.algorithm.multithread;
  */
 public class SynchronizedTest {
 
-    private static final Object o = new Object();
-
     public static void main(String[] args) {
 
-        synchronized (SynchronizedTest.class) {
+        synchronized (Object.class) {
 
         }
         m();

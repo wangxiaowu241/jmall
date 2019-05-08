@@ -30,6 +30,6 @@ repositories {
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
-    implementation('org.projectlombok:lombok:1.16.20')
+    compileOnly('org.projectlombok:lombok:1.16.20')
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
