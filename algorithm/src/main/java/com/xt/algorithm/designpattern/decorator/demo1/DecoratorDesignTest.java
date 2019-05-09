@@ -1,4 +1,4 @@
-package com.xt.algorithm.designpattern.decorator;
+package com.xt.algorithm.designpattern.decorator.demo1;
 
 /**
  * 装饰模式：动态地给类增加额外的功能
@@ -17,7 +17,7 @@ public class DecoratorDesignTest {
   public static void main(String[] args) {
 
     ConcreteSubject concreteSubject = new ConcreteSubject();
-    new PreSubjectDecorator(concreteSubject).show();
-    new PostSubjectDecorator(concreteSubject).show();
+    new SubjectDecoratorA(concreteSubject).show();
+    new SubjectDecoratorB(concreteSubject).show();
   }
 }

@@ -1,4 +1,4 @@
-package com.xt.algorithm.designpattern.decorator;
+package com.xt.algorithm.designpattern.decorator.demo1;
 
 /**
  * @author wangxiaoteng

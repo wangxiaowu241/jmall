@@ -159,7 +159,7 @@ public class StringRelation {
      * @param str 给定的字符串
      * @return 最长的回文子串
      */
-//    private static String getLongestPalindrome(String str) {
+//    private staticc String getLongestPalindrome(String str) {
 //
 //    }
 
