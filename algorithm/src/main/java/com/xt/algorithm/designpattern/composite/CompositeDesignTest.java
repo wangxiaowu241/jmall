@@ -33,12 +33,9 @@ public class CompositeDesignTest {
 
   private static void printAllMenu(Menu menu) {
 
-    Menu currentMenu = menu;
-    while (null != currentMenu.getSubMenuList() && !currentMenu.getSubMenuList().isEmpty()) {
-
-      System.out.println("菜单名称为:" + currentMenu.getName());
-
-      for (Menu innerMenu : currentMenu.getSubMenuList()) {
+    System.out.println("菜单名称为:" + menu.getName());
+    while (null != menu.getSubMenuList() && !menu.getSubMenuList().isEmpty()) {
+      for (Menu innerMenu : menu.getSubMenuList()) {
         printAllMenu(innerMenu);
       }
     }
