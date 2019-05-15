@@ -11,7 +11,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart.iml" group="cart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" group="cart" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" group="cart" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.algorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.algorithm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.algorithm.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.algorithm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.algorithm.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.iml" filepath="$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.iml" />

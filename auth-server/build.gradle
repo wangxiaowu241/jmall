@@ -35,7 +35,7 @@ dependencies {
     implementation('org.springframework.boot:spring-boot-starter-web')
     implementation('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
-    compileOnly 'org.projectlombok:lombok:1.16.20'
+    compileOnly 'org.projectlombok:lombok'
     implementation 'io.springfox:springfox-swagger2:2.9.2'
     implementation 'io.springfox:springfox-swagger-ui:2.9.2'
     implementation('com.xt.java:common-mybatis:1.0-SNAPSHOT')
