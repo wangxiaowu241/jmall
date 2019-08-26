@@ -12,7 +12,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
  * @version $Id: FeignRetryConfig.java,v 1.0 2018/12/10 11:58 AM wangxiaoteng
  * @date 2018/12/10 下午11:58 AM
  */

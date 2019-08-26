@@ -12,7 +12,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
  * @version $Id: WebMvcConfig.java,v 1.0 2018/12/7 11:24 AM wangxiaoteng
  * @date 2018/12/7 下午11:24 AM
  */

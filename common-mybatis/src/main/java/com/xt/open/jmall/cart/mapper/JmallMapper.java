@@ -6,7 +6,6 @@ import tk.mybatis.mapper.common.MySqlMapper;
 /**
  * 通用mapper jmall其他mapper继承此mapper
  *
- * @author wangxiaoteng
  * @version $Id: JmallMapper.java,v 1.0 2018/12/9 3:20 PM wangxiaoteng
  * @date 2018/12/9 下午3:20 PM
  */

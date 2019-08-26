@@ -14,7 +14,6 @@ import org.springframework.web.servlet.NoHandlerFoundException;
 /**
  * zuul的全局异常处理器
  *
- * @author wangxiaoteng
  * @version $Id: ZuulGlobalException.java,v 1.0 2019/1/16 11:14 AM wangxiaoteng
  * @date 2019/1/16 下午11:14 AM
  */

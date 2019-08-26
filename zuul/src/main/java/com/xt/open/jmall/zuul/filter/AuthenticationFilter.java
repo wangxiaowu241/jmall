@@ -17,7 +17,6 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 权限认证filter
  *
- * @author wangxiaoteng
  * @version $Id: AuthenticationFilter.java,v 1.0 2019/1/16 5:01 PM wangxiaoteng
  * @date 2019/1/16 下午5:01 PM
  */

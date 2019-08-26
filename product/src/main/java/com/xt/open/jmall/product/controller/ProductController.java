@@ -21,7 +21,6 @@ import java.util.concurrent.ExecutionException;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
  * @version $Id: ProductController.java,v 1.0 2018/12/10 11:40 AM wangxiaoteng
  * @date 2018/12/10 下午11:40 AM
  */

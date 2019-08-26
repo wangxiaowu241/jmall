@@ -13,7 +13,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
  * @version $Id: ZuulConfiguration.java,v 1.0 2019/1/15 5:44 PM wangxiaoteng
  * @date 2019/1/15 下午5:44 PM
  */

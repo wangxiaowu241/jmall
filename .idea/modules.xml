@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_main.iml" group="algorithm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_test.iml" group="algorithm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server.iml" group="auth-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server/auth-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server/auth-server_main.iml" group="auth-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-server/auth-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-server/auth-server_test.iml" group="auth-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart.iml" group="cart" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_main.iml" group="cart" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cart/cart_test.iml" group="cart" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.algorithm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.algorithm.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.algorithm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.algorithm.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.iml" filepath="$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common-base/com.xt.java.common-base.test.iml" />
@@ -37,24 +26,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.open.jmall.zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.open.jmall.zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.open.jmall.zuul.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.open.jmall.zuul.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.xt.open.jmall.zuul.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.xt.open.jmall.zuul.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-base.iml" filepath="$PROJECT_DIR$/.idea/modules/common-base.iml" group="common-base" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-base/common-base_main.iml" filepath="$PROJECT_DIR$/.idea/modules/common-base/common-base_main.iml" group="common-base" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-base/common-base_test.iml" filepath="$PROJECT_DIR$/.idea/modules/common-base/common-base_test.iml" group="common-base" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-mybatis/common-mybatis.iml" filepath="$PROJECT_DIR$/.idea/modules/common-mybatis/common-mybatis.iml" group="common-mybatis" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-mybatis/common-mybatis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/common-mybatis/common-mybatis_main.iml" group="common-mybatis" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-mybatis/common-mybatis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/common-mybatis/common-mybatis_test.iml" group="common-mybatis" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka.iml" group="eureka" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka_main.iml" group="eureka" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka/eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka/eureka_test.iml" group="eureka" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/jmall.iml" filepath="$PROJECT_DIR$/.idea/jmall.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jmall_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jmall_main.iml" group="jmall" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jmall_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jmall_test.iml" group="jmall" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product.iml" filepath="$PROJECT_DIR$/.idea/modules/product.iml" group="product" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product_main.iml" filepath="$PROJECT_DIR$/.idea/modules/product_main.iml" group="product" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product_test.iml" filepath="$PROJECT_DIR$/.idea/modules/product_test.iml" group="product" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul_main.iml" group="zuul" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul_test.iml" group="zuul" />
     </modules>
   </component>
 </project>

@@ -20,7 +20,6 @@ import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 /**
  * OAuth2的配置
  *
- * @author wangxiaoteng
  * @version $Id: OAuthConfiguration.java,v 1.0 2019/1/19 2:54 PM wangxiaoteng
  * @date 2019/1/19 下午2:54 PM
  */

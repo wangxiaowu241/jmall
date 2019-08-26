@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
  * @version $Id: CartFeignClient.java,v 1.0 2018/12/10 11:39 AM wangxiaoteng
  * @date 2018/12/10 下午11:39 AM
  */

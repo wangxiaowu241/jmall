@@ -3,6 +3,9 @@ buildscript {
         springBootVersion = '2.1.1.RELEASE'
     }
     repositories {
+        mavenLocal()
+        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+        maven{ url 'http://maven.aliyun.com/nexus/content/repositories/jcenter'}
         mavenCentral()
     }
     dependencies {
@@ -30,6 +33,9 @@ dependencies {
     implementation('org.springframework.cloud:spring-cloud-starter-netflix-zuul')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
     implementation('org.springframework.cloud:spring-cloud-starter-netflix-eureka-client')
+    //compile "org.springframework.data:spring-data-redis"
+//    compile "redis.clients:jedis:2.9.0"
+    compile 'org.springframework.boot:spring-boot-starter-data-redis'
 //    implementation('org.springframework.cloud:spring-cloud-starter-security')
 //    implementation('org.springframework.cloud:spring-cloud-starter-oauth2')
 

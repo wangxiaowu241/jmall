@@ -13,7 +13,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
  * @version $Id: DefaultFeignConfiguration.java,v 1.0 2019/1/8 10:07 PM wangxiaoteng
  * @date 2019/1/8 下午10:07 PM
  */

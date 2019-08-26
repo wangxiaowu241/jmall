@@ -19,7 +19,6 @@ import java.util.concurrent.Future;
 /**
  * 类注释，描述
  *
- * @author wangxiaoteng
  * @version $Id: ProductService.java,v 1.0 2019/1/22 11:23 AM wangxiaoteng
  * @date 2019/1/22 下午11:23 AM
  */
