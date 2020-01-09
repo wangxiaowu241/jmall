@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * 类注释，描述
  *
- * @version $Id: Cart.java,v 1.0 2018/12/9 4:18 PM wangxiaoteng
+ * @version $Id: Cart.java,v 1.0 2018/12/9 4:18 PM
  * @date 2018/12/9 下午4:18 PM
  */
 @Data

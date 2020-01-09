@@ -1,7 +1,7 @@
 /**
- * $Id: ProductService.java,v 1.0 2019/1/22 11:23 AM wangxiaoteng
+ * $Id: ProductService.java,v 1.0 2019/1/22 11:23 AM
  *
- * @Copyright (c) 2019/1/22, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/22,
  */
 package com.xt.open.jmall.product.service;
 
@@ -19,7 +19,7 @@ import java.util.concurrent.Future;
 /**
  * 类注释，描述
  *
- * @version $Id: ProductService.java,v 1.0 2019/1/22 11:23 AM wangxiaoteng
+ * @version $Id: ProductService.java,v 1.0 2019/1/22 11:23 AM
  * @date 2019/1/22 下午11:23 AM
  */
 @Service

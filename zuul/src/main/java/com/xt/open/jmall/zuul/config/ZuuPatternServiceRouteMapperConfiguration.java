@@ -1,7 +1,7 @@
 /**
- * $Id: ZuulConfiguration.java,v 1.0 2019/1/15 5:44 PM wangxiaoteng
+ * $Id: ZuulConfiguration.java,v 1.0 2019/1/15 5:44 PM
  *
- * @Copyright (c) 2019/1/15, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/15,
  */
 package com.xt.open.jmall.zuul.config;
 
@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 类注释，描述
  *
- * @version $Id: ZuulConfiguration.java,v 1.0 2019/1/15 5:44 PM wangxiaoteng
+ * @version $Id: ZuulConfiguration.java,v 1.0 2019/1/15 5:44 PM
  * @date 2019/1/15 下午5:44 PM
  */
 @Configuration
@@ -23,7 +23,7 @@ public class ZuuPatternServiceRouteMapperConfiguration {
      * 获取没有版本号的路由匹配规则bean
      *
      * @return {@link PatternServiceRouteMapper}
-     * @author wangxiaoteng
+     * @author
      * @date 10:27 AM 2019/1/17
      **/
     @Bean

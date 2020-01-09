@@ -1,7 +1,7 @@
 /**
- * $Id: AuthenticationFilter.java,v 1.0 2019/1/16 5:01 PM wangxiaoteng
+ * $Id: AuthenticationFilter.java,v 1.0 2019/1/16 5:01 PM
  *
- * @Copyright (c) 2019/1/16, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/16,
  */
 package com.xt.open.jmall.zuul.filter;
 
@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 权限认证filter
  *
- * @version $Id: AuthenticationFilter.java,v 1.0 2019/1/16 5:01 PM wangxiaoteng
+ * @version $Id: AuthenticationFilter.java,v 1.0 2019/1/16 5:01 PM
  * @date 2019/1/16 下午5:01 PM
  */
 public class AuthenticationFilter extends ZuulFilter {

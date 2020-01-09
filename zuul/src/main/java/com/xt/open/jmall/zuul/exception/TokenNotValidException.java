@@ -1,14 +1,14 @@
 /**
- * $Id: TokenNotValidException.java,v 1.0 2019/1/18 2:14 PM wangxiaoteng
+ * $Id: TokenNotValidException.java,v 1.0 2019/1/18 2:14 PM
  *
- * @Copyright (c) 2019/1/18, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/18,
  */
 package com.xt.open.jmall.zuul.exception;
 
 /**
  * token 不合法异常
  *
- * @version $Id: TokenNotValidException.java,v 1.0 2019/1/18 2:14 PM wangxiaoteng
+ * @version $Id: TokenNotValidException.java,v 1.0 2019/1/18 2:14 PM
  * @date 2019/1/18 下午2:14 PM
  */
 public class TokenNotValidException extends RuntimeException {

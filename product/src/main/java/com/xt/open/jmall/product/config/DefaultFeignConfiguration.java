@@ -1,7 +1,7 @@
 /**
- * $Id: DefaultFeignConfiguration.java,v 1.0 2019/1/8 10:07 PM wangxiaoteng
+ * $Id: DefaultFeignConfiguration.java,v 1.0 2019/1/8 10:07 PM
  *
- * @Copyright (c) 2019/1/8, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/8,
  */
 package com.xt.open.jmall.product.config;
 
@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 类注释，描述
  *
- * @version $Id: DefaultFeignConfiguration.java,v 1.0 2019/1/8 10:07 PM wangxiaoteng
+ * @version $Id: DefaultFeignConfiguration.java,v 1.0 2019/1/8 10:07 PM
  * @date 2019/1/8 下午10:07 PM
  */
 @Configuration

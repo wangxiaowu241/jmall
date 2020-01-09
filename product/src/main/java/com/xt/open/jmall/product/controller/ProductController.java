@@ -1,7 +1,7 @@
 /**
- * $Id: ProductController.java,v 1.0 2018/12/10 11:40 AM wangxiaoteng
+ * $Id: ProductController.java,v 1.0 2018/12/10 11:40 AM
  *
- * @Copyright (c) 2018/12/10, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2018/12/10,
  */
 package com.xt.open.jmall.product.controller;
 
@@ -21,7 +21,7 @@ import java.util.concurrent.ExecutionException;
 /**
  * 类注释，描述
  *
- * @version $Id: ProductController.java,v 1.0 2018/12/10 11:40 AM wangxiaoteng
+ * @version $Id: ProductController.java,v 1.0 2018/12/10 11:40 AM
  * @date 2018/12/10 下午11:40 AM
  */
 @RequestMapping("/product")

@@ -1,7 +1,7 @@
 /**
  * $Id: FeignCustomRequestInteceptor.java,v 1.0 2018/12/10 6:56 PM
  *
- * @Copyright (c) 2018/12/10, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2018/12/10,
  */
 package com.xt.open.jmall.product.interceptors;
 

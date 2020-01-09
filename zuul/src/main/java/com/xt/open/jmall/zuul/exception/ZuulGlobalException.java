@@ -1,7 +1,7 @@
 /**
- * $Id: ZuulGlobalException.java,v 1.0 2019/1/16 11:14 AM wangxiaoteng
+ * $Id: ZuulGlobalException.java,v 1.0 2019/1/16 11:14 AM
  *
- * @Copyright (c) 2019/1/16, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/16,
  */
 package com.xt.open.jmall.zuul.exception;
 
@@ -14,7 +14,7 @@ import org.springframework.web.servlet.NoHandlerFoundException;
 /**
  * zuul的全局异常处理器
  *
- * @version $Id: ZuulGlobalException.java,v 1.0 2019/1/16 11:14 AM wangxiaoteng
+ * @version $Id: ZuulGlobalException.java,v 1.0 2019/1/16 11:14 AM
  * @date 2019/1/16 下午11:14 AM
  */
 @RestControllerAdvice

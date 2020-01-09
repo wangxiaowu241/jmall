@@ -1,7 +1,7 @@
 /**
- * $Id: AuthServerApplication.java,v 1.0 2019/1/19 2:30 PM wangxiaoteng
+ * $Id: AuthServerApplication.java,v 1.0 2019/1/19 2:30 PM
  *
- * @Copyright (c) 2019/1/19, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/19,
  */
 package com.xt.open.jmall.auth;
 
@@ -18,7 +18,7 @@ import org.springframework.security.crypto.password.NoOpPasswordEncoder;
 /**
  * 类注释，描述
  *
- * @version $Id: AuthServerApplication.java,v 1.0 2019/1/19 2:30 PM wangxiaoteng
+ * @version $Id: AuthServerApplication.java,v 1.0 2019/1/19 2:30 PM
  * @date 2019/1/19 下午2:30 PM
  */
 @EnableDiscoveryClient

@@ -1,7 +1,7 @@
 /**
- * $Id: OAuthConfiguration.java,v 1.0 2019/1/19 2:54 PM wangxiaoteng
+ * $Id: OAuthConfiguration.java,v 1.0 2019/1/19 2:54 PM
  *
- * @Copyright (c) 2019/1/19, Lianjia Group All Rights Reserved.
+ * @Copyright (c) 2019/1/19,
  */
 package com.xt.open.jmall.auth.config;
 
@@ -20,7 +20,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 /**
  * OAuth2的配置
  *
- * @version $Id: OAuthConfiguration.java,v 1.0 2019/1/19 2:54 PM wangxiaoteng
+ * @version $Id: OAuthConfiguration.java,v 1.0 2019/1/19 2:54 PM
  * @date 2019/1/19 下午2:54 PM
  */
 @Configuration
